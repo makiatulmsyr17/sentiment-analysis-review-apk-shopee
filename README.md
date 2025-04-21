@@ -37,14 +37,6 @@ Deep learning models implemented:
 The models are evaluated using:
 - Accuracy
 
-## 🚀 How to Run the Project
-1. Clone this repository
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the notebook `sentiment_analysis_deep_learning.ipynb` using Jupyter Notebook or Google Colab
-
 ## 👩‍💻 Contributor
 - **Makiatul Musyaropah** 
 
