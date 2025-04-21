@@ -51,8 +51,4 @@ pip install -r requirements.txt
 ## 👩‍💻 Contributor
 - **Makiatul Musyaropah** 
 
-## 📄 License
-This project is for educational and research purposes only. The dataset is publicly available and not used for commercial purposes.
-```
 
----
