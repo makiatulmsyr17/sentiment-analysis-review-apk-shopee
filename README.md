@@ -36,9 +36,6 @@ Deep learning models implemented:
 ## 📈 Model Evaluation
 The models are evaluated using:
 - Accuracy
-- Precision, Recall, and F1-Score
-- Confusion Matrix
-- Visualization of prediction results
 
 ## 🚀 How to Run the Project
 1. Clone this repository
